@@ -574,3 +574,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.07.22-01.00.52:889][  0]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
 [2019.07.22-01.00.53:022][  0]LogRenderer: Reallocating scene render targets to support 804x360 Format 10 NumSamples 1 (Frame:1).
 [2019.07.22-01.00.53:022][  0]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.22-01.02.31:294][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.22-01.02.31:499][687]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1414).
+[2019.07.22-01.02.43:453][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.22-01.02.43:621][128]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.22-01.02.43:808][128]LogAIModule: Creating AISystem for world SkillTest2
+[2019.07.22-01.02.43:857][128]LogAssetEditorManager: Opening Asset editor for World /Game/SkillTest2.SkillTest2
+[2019.07.22-01.02.43:876][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.07.22-01.02.43:877][128]Cmd: MAP LOAD FILE="../../../../../../OneDrive/Documents/Unreal Projects/ShooterGame/Content/SkillTest2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.22-01.02.43:877][128]LightingResults: New page: Lighting Build
+[2019.07.22-01.02.43:877][128]LoadErrors: New page: Loading map: SkillTest2.umap
+[2019.07.22-01.02.43:879][128]MapCheck: New page: Map Check
+[2019.07.22-01.02.43:879][128]LightingResults: New page: Lighting Build
+[2019.07.22-01.02.43:900][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.07.22-01.02.44:020][128]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.22-01.02.44:039][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.07.22-01.02.44:051][128]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.22-01.02.44:052][128]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.064ms to complete.
+[2019.07.22-01.02.44:052][128]LogFileHelpers: Loading map 'SkillTest2' took 0.176
