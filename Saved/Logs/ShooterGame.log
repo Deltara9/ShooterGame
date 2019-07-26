@@ -996,3 +996,117 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.07.26-23.03.25:904][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
 [2019.07.26-23.03.26:405][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
 [2019.07.26-23.03.26:905][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.27:406][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.27:907][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.28:407][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.28:908][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.29:408][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.29:909][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.30:410][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.30:910][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.31:411][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.31:912][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.32:412][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.32:913][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.33:414][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.33:914][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.34:415][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.34:916][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.35:416][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.35:917][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.36:418][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.36:918][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.37:419][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.37:920][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.38:420][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.38:921][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.39:422][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.39:922][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.40:423][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.40:924][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.41:424][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.41:925][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.42:426][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.42:926][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.43:427][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.43:928][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.44:428][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.44:929][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.45:430][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.45:930][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.46:431][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.46:932][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.47:432][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.47:933][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.48:434][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.48:934][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.49:435][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.49:936][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.50:436][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.50:937][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.51:438][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.51:938][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.52:439][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.52:940][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.53:440][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.53:941][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.54:442][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.54:942][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.55:443][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.55:944][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.56:444][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.56:945][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.57:445][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.57:946][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.58:447][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.58:947][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.59:448][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.03.59:949][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.04.00:449][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.04.00:950][699]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.26-23.04.01:464][699]LogHttp: Warning: 000001E1DD9D47C0: request failed, libcurl error: 28 (Timeout was reached)
+[2019.07.26-23.04.01:464][699]LogHttp: Warning: 000001E1DD9D47C0: libcurl info message cache 0 (Connection 1 seems to be dead!)
+[2019.07.26-23.04.01:464][699]LogHttp: Warning: 000001E1DD9D47C0: libcurl info message cache 1 (Closing connection 1)
+[2019.07.26-23.04.01:464][699]LogHttp: Warning: 000001E1DD9D47C0: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.07.26-23.04.01:464][699]LogHttp: Warning: 000001E1DD9D47C0: libcurl info message cache 3 (  Trying 52.200.81.49...)
+[2019.07.26-23.04.01:464][699]LogHttp: Warning: 000001E1DD9D47C0: libcurl info message cache 4 (TCP_NODELAY set)
+[2019.07.26-23.04.01:464][699]LogHttp: Warning: 000001E1DD9D47C0: libcurl info message cache 5 (Connected to datarouter.ol.epicgames.com (52.200.81.49) port 443 (#2))
+[2019.07.26-23.04.01:464][699]LogHttp: Warning: 000001E1DD9D47C0: libcurl info message cache 6 (ALPN, offering http/1.1)
+[2019.07.26-23.04.01:464][699]LogHttp: Warning: 000001E1DD9D47C0: libcurl info message cache 7 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.07.26-23.04.01:464][699]LogHttp: Warning: 000001E1DD9D47C0: libcurl info message cache 8 (SSL re-using session ID)
+[2019.07.26-23.04.01:464][699]LogHttp: Warning: 000001E1DD9D47C0: libcurl info message cache 9 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.07.26-23.04.01:464][699]LogHttp: Warning: 000001E1DD9D47C0: libcurl info message cache 10 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2019.07.26-23.04.01:464][699]LogHttp: Warning: 000001E1DD9D47C0: libcurl info message cache 11 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2019.07.26-23.04.01:464][699]LogHttp: Warning: 000001E1DD9D47C0: libcurl info message cache 12 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2019.07.26-23.04.01:464][699]LogHttp: Warning: 000001E1DD9D47C0: libcurl info message cache 13 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2019.07.26-23.04.01:464][699]LogHttp: Warning: 000001E1DD9D47C0: libcurl info message cache 14 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2019.07.26-23.04.01:464][699]LogHttp: Warning: 000001E1DD9D47C0: libcurl info message cache 15 (TLSv1.2 (OUT), TLS change cipher, Client hello (1):)
+[2019.07.26-23.04.01:464][699]LogHttp: Warning: 000001E1DD9D47C0: libcurl info message cache 16 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2019.07.26-23.04.01:464][699]LogHttp: Warning: 000001E1DD9D47C0: libcurl info message cache 17 (Operation timed out after 60000 milliseconds with 0 out of 0 bytes received)
+[2019.07.26-23.04.01:464][699]LogHttp: Warning: 000001E1DD9D47C0: libcurl info message cache 18 (Closing connection 2)
+[2019.07.26-23.04.01:491][699]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.07.26-23.04.01:491][699]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.07.26-23.04.01:492][699]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.07.26-23.04.01:498][699]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.07.26-23.04.01:498][699]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.07.26-23.04.01:499][699]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.07.26-23.04.01:499][699]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.07.26-23.04.01:499][699]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.07.26-23.04.01:499][699]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.07.26-23.04.01:499][699]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.07.26-23.04.01:499][699]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.07.26-23.04.01:499][699]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.07.26-23.04.01:500][699]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.07.26-23.04.01:500][699]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.07.26-23.04.01:500][699]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.07.26-23.04.01:500][699]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.07.26-23.04.01:500][699]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.07.26-23.04.01:500][699]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.07.26-23.04.01:500][699]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.07.26-23.04.01:500][699]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.07.26-23.04.01:500][699]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.07.26-23.04.01:500][699]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.07.26-23.04.01:500][699]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.07.26-23.04.01:500][699]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.07.26-23.04.01:531][699]LogExit: Exiting.
+[2019.07.26-23.04.01:616][699]Log file closed, 07/26/19 18:04:01
